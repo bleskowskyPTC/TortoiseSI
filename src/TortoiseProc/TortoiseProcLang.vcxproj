@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -43,21 +43,33 @@
   <ItemGroup>
     <Image Include="..\Resources\actionadded.ico" />
     <Image Include="..\Resources\actiondeleted.ico" />
+    <Image Include="..\resources\actionfetching.ico" />
     <Image Include="..\Resources\actionmodified.ico" />
     <Image Include="..\Resources\actionreplaced.ico" />
     <Image Include="..\Resources\AddBackground.ico" />
+    <Image Include="..\Resources\bugtraq.ico" />
     <Image Include="..\Resources\cache.ico" />
     <Image Include="..\Resources\cancel-normal.ico" />
     <Image Include="..\Resources\cancel-pressed.ico" />
+    <Image Include="..\Resources\certcheck.ico" />
     <Image Include="..\Resources\CFMBackground.ico" />
+    <Image Include="..\Resources\code.ico" />
     <Image Include="..\Resources\CommitBackground.ico" />
     <Image Include="..\Resources\CopyBackground.ico" />
     <Image Include="..\Resources\DelunversionedBackground.ico" />
     <Image Include="..\Resources\dialogs.ico" />
     <Image Include="..\Resources\Drives.ico" />
+    <Image Include="..\Resources\executableovl.ico" />
+    <Image Include="..\Resources\explorer.ico" />
     <Image Include="..\Resources\ExportBackground.ico" />
+    <Image Include="..\Resources\externalovl.ico" />
+    <Image Include="..\Resources\file.ico" />
     <Image Include="..\Resources\filteredit.ico" />
     <Image Include="..\Resources\general.ico" />
+    <Image Include="..\resources\git.bmp" />
+    <Image Include="..\Resources\gitconfig.ico" />
+    <Image Include="..\Resources\gitcredential.ico" />
+    <Image Include="..\Resources\gitremote.ico" />
     <Image Include="..\Resources\graph-bar-stacked.ico" />
     <Image Include="..\Resources\graph-bar.ico" />
     <Image Include="..\Resources\graph-line-stacked.ico" />
@@ -66,16 +78,29 @@
     <Image Include="..\Resources\hook.ico" />
     <Image Include="..\Resources\iconset.ico" />
     <Image Include="..\Resources\ImportBackground.ico" />
+    <Image Include="..\Resources\ImportPatchesBackground.ico" />
+    <Image Include="..\Resources\IntegrityClient.ico" />
+    <Image Include="..\Resources\jumpdown.ico" />
+    <Image Include="..\Resources\jumpup.ico" />
+    <Image Include="..\Resources\Library.ico" />
     <Image Include="..\Resources\logfilter.ico" />
     <Image Include="..\Resources\lookandfeel.ico" />
+    <Image Include="..\Resources\menumerge.ico" />
     <Image Include="..\Resources\MergeBackground.ico" />
     <Image Include="..\Resources\misc.ico" />
+    <Image Include="..\Resources\newfolder.ico" />
+    <Image Include="..\Resources\open.ico" />
     <Image Include="..\Resources\Overlays.ico" />
     <Image Include="..\Resources\proxy.ico" />
+    <Image Include="..\Resources\refresh.ico" />
+    <Image Include="..\resources\reftype.bmp" />
     <Image Include="..\Resources\RenameBackground.ico" />
     <Image Include="..\Resources\RepoBrowserBackground.ico" />
     <Image Include="..\Resources\ResolveBackground.ico" />
+    <Image Include="..\Resources\restore.ico" />
+    <Image Include="..\Resources\restoreovl.ico" />
     <Image Include="..\Resources\RevertBackground.ico" />
+    <Image Include="..\Resources\revgraphglyphs.bmp" />
     <Image Include="..\Resources\revgraph_added.ico" />
     <Image Include="..\Resources\revgraph_addedplus.ico" />
     <Image Include="..\Resources\revgraph_deleted.ico" />
@@ -84,14 +109,22 @@
     <Image Include="..\Resources\revgraph_replaced.ico" />
     <Image Include="..\Resources\revgraph_tag.ico" />
     <Image Include="..\Resources\revgraphbar.bmp" />
+    <Image Include="..\Resources\save.ico" />
+    <Image Include="..\Resources\saveas.ico" />
     <Image Include="..\Resources\saveddata.ico" />
+    <Image Include="..\Resources\showbranches.ico" />
+    <Image Include="..\Resources\snippet.ico" />
+    <Image Include="..\Resources\spell.ico" />
     <Image Include="..\Resources\ssh.ico" />
     <Image Include="..\Resources\switch.ico" />
     <Image Include="..\Resources\SwitchBackground.ico" />
+    <Image Include="..\Resources\symlinkovl.ico" />
     <Image Include="..\Resources\Tortoise.ico" />
+    <Image Include="..\Resources\TortoiseBlame.ico" />
     <Image Include="..\Resources\tortoisegit_logoflipped.bmp" />
     <Image Include="..\Resources\ttf_glyph.bmp" />
     <Image Include="..\Resources\UnlockBackground.ico" />
+    <Image Include="..\Resources\up.ico" />
     <Image Include="..\Resources\UpdateBackground.ico" />
     <Image Include="..\Resources\warning-general.ico" />
   </ItemGroup>
