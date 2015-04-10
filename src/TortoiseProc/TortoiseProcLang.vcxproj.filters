@@ -179,6 +179,105 @@
     <Image Include="..\Resources\warning-general.ico">
       <Filter>Resource Files</Filter>
     </Image>
+    <Image Include="..\Resources\IntegrityClient.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\ImportPatchesBackground.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\TortoiseBlame.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\bugtraq.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\up.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\newfolder.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\refresh.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\save.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\saveas.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\explorer.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\open.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\gitconfig.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\gitremote.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\resources\actionfetching.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\Library.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\restore.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\restoreovl.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\showbranches.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\jumpup.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\jumpdown.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\gitcredential.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\externalovl.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\menumerge.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\executableovl.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\symlinkovl.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\spell.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\file.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\code.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\snippet.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\certcheck.ico">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\Resources\revgraphglyphs.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\resources\git.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="..\resources\reftype.bmp">
+      <Filter>Resource Files</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\Resources\pan.cur">
